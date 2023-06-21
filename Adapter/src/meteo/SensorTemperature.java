@@ -7,4 +7,3 @@ interface SensorTemperature{
 	int day();			 // День года
 	int second();		 // Секунда дня
 }
-	
